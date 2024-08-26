@@ -55,8 +55,8 @@ def process_all_videos(input_folder, output_folder, fps=1):
 
 if __name__ == "__main__":
 
-    input_folder = '/Users/ishwar4.singh/Downloads/OneDrive_1_13-08-2024/' 
-    output_folder = 'frames_output'  
+    input_folder = '/input_videos/' 
+    output_folder = 'output_frames'  
     fps = 2  
     process_all_videos(input_folder, output_folder, fps)
 
