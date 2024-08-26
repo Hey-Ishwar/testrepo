@@ -1,2 +1,2 @@
 # Adding just a print statement 
-print("Hi , journey begins!)
+print("Hi , journey has already started!)
